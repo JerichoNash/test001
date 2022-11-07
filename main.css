@@ -1,3 +1,17 @@
-body{
-    color: rgb(208, 29, 29);
+header{
+    height: 250px;
+    outline: 1px solid red;
+    background-image: url(https://images.pexels.com/photos/2558605/pexels-photo-2558605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    block-size: cover;
+    background-position: center center;
+}
+header h1{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+header h2{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 50px;
 }
